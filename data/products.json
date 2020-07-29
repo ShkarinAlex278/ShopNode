@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19.00"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "A Car",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-ferrari-f8-tributo-120-1568805901.jpg?crop=0.982xw:0.804xh;0.00641xw,0.160xh&resize=640:*",
+    "description": "Ferrari",
+    "price": "1000000"
+  }
+]
